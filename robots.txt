@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://github.com/hoursxd/hoursxd.github.io.git/sitemap.xml
