@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Arthur Xie&#39;s site</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Arthur Xie&#39;s site</description>
+    <title>preview on Arthur Xie&#39;s site</title>
+    <link>http://localhost:1313/tags/preview/</link>
+    <description>Recent content in preview on Arthur Xie&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Arthur Xie</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 22:26:15 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/preview/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First blog - Two Sum</title>
-      <link>http://localhost:1313/post/first629/</link>
-      <pubDate>Mon, 29 Jun 2020 22:26:15 +1000</pubDate>
-      
-      <guid>http://localhost:1313/post/first629/</guid>
-      <description>题目描述 给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。如果，我们</description>
-    </item>
     
     <item>
       <title>[English] Creating a New Theme</title>
